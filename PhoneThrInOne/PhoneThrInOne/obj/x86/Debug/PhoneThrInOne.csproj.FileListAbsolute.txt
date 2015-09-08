@@ -1,0 +1,17 @@
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\bin\x86\Debug\PhoneThrInOne.exe
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\bin\x86\Debug\PhoneThrInOne.pdb
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\x86\Debug\PhoneThrInOne.Form1.resources
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\x86\Debug\PhoneThrInOne.Properties.Resources.resources
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\x86\Debug\PhoneThrInOne.csproj.GenerateResource.Cache
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\x86\Debug\PhoneThrInOne.exe
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\x86\Debug\PhoneThrInOne.pdb
+E:\AndroidInformationCollect\PhoneThrInOne\PhoneThrInOne\obj\x86\Debug\PhoneThrInOne.exe
+E:\AndroidInformationCollect\PhoneThrInOne\PhoneThrInOne\obj\x86\Debug\PhoneThrInOne.pdb
+E:\AndroidInformationCollect\PhoneThrInOne\PhoneThrInOne\bin\x86\Debug\PhoneThrInOne.exe
+E:\AndroidInformationCollect\PhoneThrInOne\PhoneThrInOne\bin\x86\Debug\PhoneThrInOne.pdb
+E:\AndroidInformationCollect\PhoneThrInOne\PhoneThrInOne\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\AndroidInformationCollect\PhoneThrInOne\PhoneThrInOne\obj\x86\Debug\PhoneThrInOne.Form1.resources
+E:\AndroidInformationCollect\PhoneThrInOne\PhoneThrInOne\obj\x86\Debug\PhoneThrInOne.Properties.Resources.resources
+E:\AndroidInformationCollect\PhoneThrInOne\PhoneThrInOne\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\AndroidInformationCollect\PhoneThrInOne\PhoneThrInOne\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

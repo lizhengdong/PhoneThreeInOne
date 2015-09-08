@@ -1,0 +1,8 @@
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\bin\Debug\PhoneThrInOne.exe
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\bin\Debug\PhoneThrInOne.pdb
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\Debug\ResolveAssemblyReference.cache
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\Debug\PhoneThrInOne.Form1.resources
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\Debug\PhoneThrInOne.Properties.Resources.resources
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\Debug\PhoneThrInOne.csproj.GenerateResource.Cache
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\Debug\PhoneThrInOne.exe
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\Debug\PhoneThrInOne.pdb

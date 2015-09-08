@@ -1,0 +1,4 @@
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\Release\ResolveAssemblyReference.cache
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\Release\PhoneThrInOne.Form1.resources
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\Release\PhoneThrInOne.Properties.Resources.resources
+D:\CplusplusProject\PhoneThrInOne\PhoneThrInOne\obj\Release\PhoneThrInOne.csproj.GenerateResource.Cache
